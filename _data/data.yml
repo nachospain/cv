@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-  #  email: hello@webjeda.com
+   #  email: hello@webjeda.com
    # phone: 012 345 6789
    # timezone: America/Cancun Timezone
    # citizenship:
@@ -53,11 +53,11 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Perfil Profesional
     summary: |
-     especialista en producir musica y tambien en componer musica luego tambien soy especialista en organizar eventos 
+     Especialista en composición y producción de música y organizador de eventos.
 education:
-    title: Educación
+    title: EDUCACION
     info:
       - degree: Educación Secundaria Obligatoria
         university: CEIPSO SALVADOR DALI
@@ -81,7 +81,7 @@ experiences:
     title: Experiencia
     info:
       - role: DJ en discotecas
-        time: 2022
+        time: 2022 - 2023
         company: Startup Hubs, San Francisco
     #    details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -96,7 +96,7 @@ experiences:
             - Bullet point
             - Bullet point
       - role:  Técnico de sonido en el teatro de Nuria Spert de Fuenlabrada
-        time: 2022
+        time: 2022 - 2023
         company: Ceipso Salvador Dalí
      #   details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
