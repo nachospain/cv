@@ -57,20 +57,13 @@ career-profile:
     summary: |
      especialista en producir musica y tambien en componer musica luego tambien soy especialista en organizar eventos 
 education:
-    title: Habilidades
+    title: Educación
     info:
-    - item: Produccion de musica
-    - item: Compositor 
-    - item: 
-    #  - degree: MSc in Computer Science
-    #    university: University of London
-    #    time: 2011 - 2012
-    #    details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+      - degree: Educación Secundaria Obligatoria
+        university: CEIPSO SALVADOR DALI
+        time: 2018 - 2023
+    #   details: |
+    #     educacion secundaria obligatoria
             - Bullet point
             - Bullet point
     #  - degree: BSc in Applied Mathematics
@@ -85,12 +78,12 @@ education:
             - Bullet point
             - Bullet point
 experiences:
-    title: Experiences
+    title: Experiencia
     info:
-      - role: Lead Developer
-        time: 2015 - Present
+      - role: DJ en discotecas
+        time: 2022
         company: Startup Hubs, San Francisco
-        details: |
+    #    details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -102,10 +95,10 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
+      - role:  Técnico de sonido en el teatro de Nuria Spert de Fuenlabrada
+        time: 2022
+        company: Ceipso Salvador Dalí
+     #   details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -113,10 +106,10 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
+    #  - role: UI Developer
+       # time: 2012 - 2014
+       # company: Amazon, London
+      #  details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
